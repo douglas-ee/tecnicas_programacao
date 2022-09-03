@@ -1,0 +1,5 @@
+bracorobot	KEYWORD1
+braco		KEYWORD2
+leitura	KEYWORD2
+botao		KEYWORD2
+mostraestado	KEYWORD2
